@@ -2,29 +2,20 @@
 Full Solutions to Past Competitive Programming Prompts 
 
 ## Language:
-<ul>
-  <li>
-    <a href="java">Java</a>
-  </li>
-  <li>
-    <a href="python">Python</a>
-  </li>
-</ul>
-
+* [Java](https://github.com/Kyle-Kerlew/Competitive-Programming-Problems/blob/main/#java)
+* [Python](https://github.com/Kyle-Kerlew/Competitive-Programming-Problems/blob/main/#python) 
 ## Problems:
 **Note**: The prompts for each problem are located in the solution file.
 
 [Java:](#java)
-<ul>
-  <li>
-    <a href="#test">ArithmeticSquare</a>
-  </li>
-</ul>
+
+* [Arithmetic Square](https://github.com/Kyle-Kerlew/Competitive-Programming-Problems/blob/main/ArithmeticSquare.java)
 
 [Python:](#python)
-<ul>
-  <li>
-    <a href="/#java">ArithmeticSquare</a>
-  </li>
-</ul>
-
+* [Beautiful Matrix](https://github.com/Kyle-Kerlew/Competitive-Programming-Problems/blob/main/Beautiful_matrix_1.py)
+* [Beautiful Year](https://github.com/Kyle-Kerlew/Competitive-Programming-Problems/blob/main/beautiful_year_1.py)
+* [Borze](https://github.com/Kyle-Kerlew/Competitive-Programming-Problems/blob/main/borze_1.py)
+* [Boy or Girl](https://github.com/Kyle-Kerlew/Competitive-Programming-Problems/blob/main/boy_or_girl.py)
+* [Dima and Friends](https://github.com/Kyle-Kerlew/Competitive-Programming-Problems/blob/main/dima_and_friends_2.py)
+* [Effective Approach](https://github.com/Kyle-Kerlew/Competitive-Programming-Problems/blob/main/effective_approach_2.py)
+* [Even Odd](https://github.com/Kyle-Kerlew/Competitive-Programming-Problems/blob/main/even_odd_2.py)
