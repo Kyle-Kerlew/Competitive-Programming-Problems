@@ -1,15 +1,16 @@
 # Competitive-Programming-Problems
 Full Solutions to Past Competitive Programming Prompts 
 
-## Language:
-* [Java](https://github.com/Kyle-Kerlew/Competitive-Programming-Problems/blob/main/#java)
-* [Python](https://github.com/Kyle-Kerlew/Competitive-Programming-Problems/blob/main/#python) 
 ## Problems:
 **Note**: The prompts for each problem are located in the solution file.
 
-[Java:](https://github.com/Kyle-Kerlew/Competitive-Programming-Problems/blob/main/#java)
+### Solution language:
+* [Java](#java)
+* [Python](#python) 
 
+### Java
 * [Arithmetic Square](https://github.com/Kyle-Kerlew/Competitive-Programming-Problems/blob/main/ArithmeticSquare.java)
+### Python
 
 [Python:](#python)
 * [Beautiful Matrix](https://github.com/Kyle-Kerlew/Competitive-Programming-Problems/blob/main/Beautiful_matrix_1.py)
