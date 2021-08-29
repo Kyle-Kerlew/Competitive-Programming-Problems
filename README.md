@@ -7,7 +7,7 @@ Full Solutions to Past Competitive Programming Prompts
 ## Problems:
 **Note**: The prompts for each problem are located in the solution file.
 
-[Java:](#java)
+[Java:](https://github.com/Kyle-Kerlew/Competitive-Programming-Problems/blob/main/#java)
 
 * [Arithmetic Square](https://github.com/Kyle-Kerlew/Competitive-Programming-Problems/blob/main/ArithmeticSquare.java)
 
