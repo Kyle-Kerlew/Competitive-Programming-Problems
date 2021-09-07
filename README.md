@@ -10,6 +10,7 @@ Full Solutions to Past Competitive Programming Prompts
 
 ### Java
 * [Arithmetic Square](https://github.com/Kyle-Kerlew/Competitive-Programming-Problems/blob/main/ArithmeticSquare.java)
+* [K Goodness String](https://github.com/Kyle-Kerlew/Competitive-Programming-Problems/blob/main/KGoodness.java)
 ### Python
 * [Beautiful Matrix](https://github.com/Kyle-Kerlew/Competitive-Programming-Problems/blob/main/Beautiful_matrix_1.py)
 * [Beautiful Year](https://github.com/Kyle-Kerlew/Competitive-Programming-Problems/blob/main/beautiful_year_1.py)
