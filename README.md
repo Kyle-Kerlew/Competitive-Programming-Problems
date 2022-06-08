@@ -2,7 +2,7 @@
 Full Solutions to Past Competitive Programming Prompts 
 
 ## Problems:
-**Note**: The prompts for each problem are located in the solution file.
+**Note**: The prompts for each problem are located in the solution file. (This is a work in progress, some prompts may be missing)
 
 ### Solution language:
 * [Java](#java)
